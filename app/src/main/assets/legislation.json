@@ -1,0 +1,392 @@
+{
+  "legislation": [
+    {
+      "name": "Aliens Restriction (Amendment) Act 1919",
+      "url": "https://www.legislation.gov.uk/ukpga/1919/92/pdfs/ukpga_19190092_en.pdf"
+    },
+    {
+      "name": "Bribery Act 2010",
+      "url": "https://www.legislation.gov.uk/ukpga/2010/23/pdfs/ukpga_20100023_en.pdf"
+    },
+    {
+      "name": "Cemeteries Clauses Act 1847",
+      "url": "https://www.legislation.gov.uk/ukpga/1847/65/pdfs/ukpga_18470065_en.pdf"
+    },
+    {
+      "name": "Children and Young Persons Act 1933",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/data.pdf"
+    },
+    {
+      "name": "Commissioners for Revenue and Customs Act 2005",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/11/pdfs/ukpga_20050011_en.pdf"
+    },
+    {
+      "name": "Computer Misuse Act 1990",
+      "url": "https://www.legislation.gov.uk/ukpga/1990/18/pdfs/ukpga_19900018_en.pdf"
+    },
+    {
+      "name": "Coroners and Justice Act 2009",
+      "url": "https://www.legislation.gov.uk/ukpga/2009/25/pdfs/ukpga_20090025_en.pdf"
+    },
+    {
+      "name": "Corporate Manslaughter and Corporate Homicide Act 2007",
+      "url": "https://www.legislation.gov.uk/ukpga/2007/19/pdfs/ukpga_20070019_en.pdf"
+    },
+    {
+      "name": "County Courts Act 1984",
+      "url": "https://www.legislation.gov.uk/ukpga/1984/28/contents/data.pdf"
+    },
+    {
+      "name": "Crime (Sentences) Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/43/part/III/data.pdf"
+    },
+    {
+      "name": "Crime and Disorder Act 1998",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/37/contents/data.pdf"
+    },
+    {
+      "name": "Criminal Attempts Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/47/pdfs/ukpga_19810047_en.pdf"
+    },
+    {
+      "name": "Criminal Damage Act 1971",
+      "url": "https://www.legislation.gov.uk/ukpga/1971/48/pdfs/ukpga_19710048_en.pdf"
+    },
+    {
+      "name": "Criminal Finances Act 2017",
+      "url": "https://www.legislation.gov.uk/ukpga/2017/22/pdfs/ukpga_20170022_en.pdf"
+    },
+    {
+      "name": "Criminal Justice Act 1925",
+      "url": "https://www.legislation.gov.uk/ukpga/1925/86/pdfs/ukpga_19250086_en.pdf"
+    },
+    {
+      "name": "Criminal Justice Act 1987",
+      "url": "https://www.legislation.gov.uk/ukpga/1987/38/pdfs/ukpga_19870038_en.pdf"
+    },
+    {
+      "name": "Criminal Justice Act 1988",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/33/contents/data.pdf"
+    },
+    {
+      "name": "Criminal Justice Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/44/pdfs/ukpga_20030044_en.pdf"
+    },
+    {
+      "name": "Criminal Justice and Public Order Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/33/data.pdf"
+    },
+    {
+      "name": "Criminal Law Act 1967",
+      "url": "https://www.legislation.gov.uk/ukpga/1967/58/pdfs/ukpga_19670058_en.pdf"
+    },
+    {
+      "name": "Criminal Law Act 1977",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/45/pdfs/ukpga_19770045_en.pdf"
+    },
+    {
+      "name": "Criminal Procedure (Insanity and Unfitness to Plead) Act 1991",
+      "url": "https://www.legislation.gov.uk/ukpga/1991/25/pdfs/ukpga_19910025_en.pdf"
+    },
+    {
+      "name": "Drug Trafficking Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/37/pdfs/ukpga_19940037_en.pdf"
+    },
+    {
+      "name": "European Communities Act 1972",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/68/pdfs/ukpga_19720068_en.pdf"
+    },
+    {
+      "name": "Explosive Substances Act 1883",
+      "url": "https://www.legislation.gov.uk/ukpga/1883/3/pdfs/ukpga_18830003_en.pdf"
+    },
+    {
+      "name": "Family Law Reform Act 1969",
+      "url": "https://www.legislation.gov.uk/ukpga/1969/46/pdfs/ukpga_19690046_en.pdf"
+    },
+    {
+      "name": "Fatal Accidents Act 1976",
+      "url": "https://www.legislation.gov.uk/ukpga/1976/30/pdfs/ukpga_19760030_en.pdf"
+    },
+    {
+      "name": "Foreign Enlistment Act 1870",
+      "url": "https://www.legislation.gov.uk/ukpga/1870/90/pdfs/ukpga_18700090_en.pdf"
+    },
+    {
+      "name": "Forfeiture Act 1870",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/33-34/23/data.pdf"
+    },
+    {
+      "name": "Forgery Act 1861",
+      "url": "https://www.legislation.gov.uk/ukpga/1861/98/pdfs/ukpga_18610098_en.pdf"
+    },
+    {
+      "name": "Forgery and Counterfeiting Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/45/pdfs/ukpga_19810045_en.pdf"
+    },
+    {
+      "name": "Fraud Act 2006",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/35/pdfs/ukpga_20060035_en.pdf"
+    },
+    {
+      "name": "Fraudulent Mediums Act 1951",
+      "url": "https://www.legislation.gov.uk/ukpga/1951/33/pdfs/ukpga_19510033_en.pdf"
+    },
+    {
+      "name": "Gaming Act 1845",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/8-9/109/enacted/data.pdf"
+    },
+    {
+      "name": "Goods Vehicles (Licensing of Operators) Act 1995",
+      "url": "https://www.legislation.gov.uk/ukpga/1995/23/data.pdf"
+    },
+    {
+      "name": "Gun Barrel Proof Act 1868",
+      "url": "https://www.legislation.gov.uk/ukla/1868/113/pdfs/ukla_18680113_en.pdf"
+    },
+    {
+      "name": "Habeas Corpus Act 1679",
+      "url": "https://www.legislation.gov.uk/aep/Cha2/31/2/data.pdf"
+    },
+    {
+      "name": "Hallmarking Act 1973",
+      "url": "https://www.legislation.gov.uk/ukpga/1973/43/pdfs/ukpga_19730043_en.pdf"
+    },
+    {
+      "name": "Homicide Act 1957",
+      "url": "https://www.legislation.gov.uk/ukpga/1957/11/pdfs/ukpga_19570011_en.pdf"
+    },
+    {
+      "name": "Human Rights Act 1998",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/42/data.pdf"
+    },
+    {
+      "name": "Immigration Act 1971",
+      "url": "https://www.legislation.gov.uk/ukpga/1971/77/pdfs/ukpga_19710077_en.pdf"
+    },
+    {
+      "name": "Incitement to Disaffection Act 1934",
+      "url": "https://www.legislation.gov.uk/ukpga/1934/56/pdfs/ukpga_19340056_en.pdf"
+    },
+    {
+      "name": "Indecent Displays (Control) Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/42/pdfs/ukpga_19810042_en.pdf"
+    },
+    {
+      "name": "Infanticide Act 1938",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo6/1-2/36/data.pdf"
+    },
+    {
+      "name": "Intoxicating Substances (Supply) Act 1985",
+      "url": "https://www.legislation.gov.uk/ukpga/1985/26/pdfs/ukpga_19850026_en.pdf"
+    },
+    {
+      "name": "Knives Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/21/pdfs/ukpga_19970021_en.pdf"
+    },
+    {
+      "name": "Land Registration Act 2002",
+      "url": "https://www.legislation.gov.uk/ukpga/2002/9/data.pdf"
+    },
+    {
+      "name": "Law of Property Act 1925",
+      "url": "https://www.legislation.gov.uk/ukpga/1925/20/pdfs/ukpga_19250020_en.pdf"
+    },
+    {
+      "name": "Licensing Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/17/pdfs/ukpga_20030017_en.pdf"
+    },
+    {
+      "name": "Magistrates' Courts Act 1980",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/43/pdfs/ukpga_19800043_en.pdf"
+    },
+    {
+      "name": "Marriage Act 1949",
+      "url": "https://www.legislation.gov.uk/ukpga/1949/76/pdfs/ukpga_19490076_en.pdf"
+    },
+    {
+      "name": "Mental Capacity Act 2005",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/9/pdfs/ukpga_20050009_en.pdf"
+    },
+    {
+      "name": "Mental Health Act 1983",
+      "url": "https://www.legislation.gov.uk/ukpga/1983/20/pdfs/ukpga_19830020_en.pdf"
+    },
+    {
+      "name": "Ministry of Defence Police Act 1987",
+      "url": "https://www.legislation.gov.uk/ukpga/1987/4/pdfs/ukpga_19870004_en.pdf"
+    },
+    {
+      "name": "Misuse of Drugs Act 1971",
+      "url": "https://www.legislation.gov.uk/ukpga/1971/38/pdfs/ukpga_19710038_en.pdf"
+    },
+    {
+      "name": "Non-Parochial Registers Act 1840",
+      "url": "https://www.legislation.gov.uk/ukpga/1840/92/pdfs/ukpga_18400092_en.pdf"
+    },
+    {
+      "name": "Obscene Publications Act 1959",
+      "url": "https://www.legislation.gov.uk/ukpga/1959/66/pdfs/ukpga_19590066_en.pdf"
+    },
+    {
+      "name": "Offences Against the Person Act 1828",
+      "url": "https://www.legislation.gov.uk/ukpga/1861/100/pdfs/ukpga_18610100_en.pdf"
+    },
+    {
+      "name": "Offences against the Person Act 1861",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/24-25/100/data.pdf"
+    },
+    {
+      "name": "Perjury Act 1911",
+      "url": "https://www.legislation.gov.uk/ukpga/1911/6/pdfs/ukpga_19110006_en.pdf"
+    },
+    {
+      "name": "Piracy Act 1837",
+      "url": "https://www.legislation.gov.uk/ukpga/Will4and1Vict/7/88/data.pdf"
+    },
+    {
+      "name": "Piracy Act 1850",
+      "url": "https://www.legislation.gov.uk/ukpga/1850/26/pdfs/ukpga_18500026_en.pdf"
+    },
+    {
+      "name": "Police Act 1996",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/16/data.pdf"
+    },
+    {
+      "name": "Powers of Criminal Courts (Sentencing) Act 2000",
+      "url": "https://www.legislation.gov.uk/ukpga/2000/6/pdfs/ukpga_20000006_en.pdf"
+    },
+    {
+      "name": "Powers of Criminal Courts Act 1973",
+      "url": "https://www.legislation.gov.uk/ukpga/1973/62/pdfs/ukpga_19730062_en.pdf"
+    },
+    {
+      "name": "Prevention of Crime Act 1953",
+      "url": "https://www.legislation.gov.uk/ukpga/Eliz2/1-2/14/data.pdf"
+    },
+    {
+      "name": "Prison Act 1952",
+      "url": "https://www.legislation.gov.uk/ukpga/1952/52/pdfs/ukpga_19520052_en.pdf"
+    },
+    {
+      "name": "Prison Security Act 1992",
+      "url": "https://www.legislation.gov.uk/ukpga/1992/25/pdfs/ukpga_19920025_en.pdf"
+    },
+    {
+      "name": "Proceeds of Crime Act 2002",
+      "url": "https://www.legislation.gov.uk/ukpga/2002/29/data.pdf"
+    },
+    {
+      "name": "Protection from Eviction Act 1977",
+      "url": "https://www.legislation.gov.uk/ukpga/1977/43/pdfs/ukpga_19770043_en.pdf"
+    },
+    {
+      "name": "Protection from Harassment Act 1997",
+      "url": "https://www.legislation.gov.uk/ukpga/1997/40/pdfs/ukpga_19970040_en.pdf"
+    },
+    {
+      "name": "Protection of Children Act 1978",
+      "url": "https://www.legislation.gov.uk/ukpga/1978/37/pdfs/ukpga_19780037_en.pdf"
+    },
+    {
+      "name": "Psychoactive Substances Act 2016",
+      "url": "https://www.legislation.gov.uk/ukpga/2016/2/pdfs/ukpga_20160002_en.pdf"
+    },
+    {
+      "name": "Public Order Act 1936",
+      "url": "https://www.legislation.gov.uk/ukpga/1936/6/pdfs/ukpga_19360006_en.pdf"
+    },
+    {
+      "name": "Public Order Act 1986",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/64/pdfs/ukpga_19860064_en.pdf"
+    },
+    {
+      "name": "Public Passenger Vehicles Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/14/pdfs/ukpga_19810014_en.pdf"
+    },
+    {
+      "name": "Public Stores Act 1875",
+      "url": "https://www.legislation.gov.uk/ukpga/1875/25/pdfs/ukpga_18750025_en.pdf"
+    },
+    {
+      "name": "Race Relations Act 1976",
+      "url": "https://www.legislation.gov.uk/ukpga/1976/74/pdfs/ukpga_19760074_en.pdf"
+    },
+    {
+      "name": "Rehabilitation of Offenders Act 1974",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/216089/rehabilitation-offenders.pdf"
+    },
+    {
+      "name": "Representation of the People Act 1983",
+      "url": "https://www.legislation.gov.uk/ukpga/1983/2/pdfs/ukpga_19830002_en.pdf"
+    },
+    {
+      "name": "Road Traffic Act 1988",
+      "url": "https://www.legislation.gov.uk/ukpga/1988/52/data.pdf"
+    },
+    {
+      "name": "Road Traffic Regulation Act 1984",
+      "url": "https://www.legislation.gov.uk/ukpga/1984/27/part/VI/data.pdf"
+    },
+    {
+      "name": "Serious Crime Act 2007",
+      "url": "https://www.legislation.gov.uk/ukpga/2007/27/pdfs/ukpga_20070027_en.pdf"
+    },
+    {
+      "name": "Sex Discrimination Act 1975",
+      "url": "https://www.legislation.gov.uk/ukpga/1975/65/pdfs/ukpga_19750065_en.pdf"
+    },
+    {
+      "name": "Sexual Offences Act 1956",
+      "url": "https://www.legislation.gov.uk/ukpga/1956/69/pdfs/ukpga_19560069_en.pdf"
+    },
+    {
+      "name": "Sexual Offences Act 2003",
+      "url": "https://www.legislation.gov.uk/ukpga/2003/42/pdfs/ukpga_20030042_en.pdf"
+    },
+    {
+      "name": "Sheriffs Act 1887",
+      "url": "https://www.legislation.gov.uk/ukpga/Vict/50-51/55/section/23/data.pdf"
+    },
+    {
+      "name": "Slave Trade Act 1824",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo4/5/113/data.pdf"
+    },
+    {
+      "name": "Statutory Declarations Act 1835",
+      "url": "https://www.legislation.gov.uk/ukpga/Will4/5-6/62/data.pdf"
+    },
+    {
+      "name": "Supreme Court Act 1981",
+      "url": "https://www.legislation.gov.uk/ukpga/1981/54/pdfs/ukpga_19810054_en.pdf"
+    },
+    {
+      "name": "Terrorism Act 2000",
+      "url": "https://www.legislation.gov.uk/ukpga/2000/11/pdfs/ukpga_20000011_en.pdf"
+    },
+    {
+      "name": "Theft Act 1968",
+      "url": "https://www.legislation.gov.uk/ukpga/1968/60/pdfs/ukpga_19680060_en.pdf"
+    },
+    {
+      "name": "Theft Act 1978",
+      "url": "https://www.legislation.gov.uk/ukpga/1978/31/pdfs/ukpga_19780031_en.pdf"
+    },
+    {
+      "name": "Transport Act 1968",
+      "url": "https://www.legislation.gov.uk/ukpga/1968/73/pdfs/ukpga_19680073_en.pdf"
+    },
+    {
+      "name": "Treason Act 1351",
+      "url": "https://www.legislation.gov.uk/aep/Edw3Stat5/25/2/data.pdf"
+    },
+    {
+      "name": "Treason Act 1842",
+      "url": "https://www.legislation.gov.uk/ukpga/1842/51/pdfs/ukpga_18420051_en.pdf"
+    },
+    {
+      "name": "Vehicles Excise and Registration Act 1994",
+      "url": "https://www.legislation.gov.uk/ukpga/1994/22/section/29/data.pdf"
+    }
+  ]
+}

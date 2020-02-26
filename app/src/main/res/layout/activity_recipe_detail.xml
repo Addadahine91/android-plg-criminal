@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/contractBlue"
+    tools:ignore="ExtraText">
+
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/custom_toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="?android:attr/actionBarSize"-->
+<!--        android:background="@android:color/holo_red_dark">-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textColor="@android:color/white"-->
+<!--            android:textSize="20sp"-->
+<!--            android:layout_marginEnd="?android:attr/actionBarSize"-->
+<!--            android:gravity="center"/>-->
+
+<!--    </androidx.appcompat.widget.Toolbar>-->
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/case_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:autoSizeTextType="uniform"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/contractBlue"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/brandon_med"
+        android:paddingTop="10dp"
+        android:textSize="22sp"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/case_attribute"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/contractBlue"
+        android:textColor="@android:color/white"
+        android:fontFamily="@font/brandon_med"
+        android:textSize="14sp"
+        android:gravity="center"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false">
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textColor="@android:color/white"-->
+<!--            android:textSize="20sp"-->
+<!--            android:layout_marginEnd="?android:attr/actionBarSize"-->
+<!--            android:gravity="center"/>-->
+
+        <com.yuyakaido.android.cardstackview.CardStackView
+            android:id="@+id/card_stack_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="20dp"
+            android:paddingBottom="30dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:clipToPadding="false">
+        </com.yuyakaido.android.cardstackview.CardStackView>
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+<com.google.android.material.navigation.NavigationView
+    android:id="@+id/navigation_view"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:layout_gravity="start"
+    android:fitsSystemWindows="true">
+</com.google.android.material.navigation.NavigationView>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

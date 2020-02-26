@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617048763407",
+    "firebase_url": "https://contract-b4602.firebaseio.com",
+    "project_id": "contract-b4602",
+    "storage_bucket": "contract-b4602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617048763407:android:1f6156994e24912ac6077a",
+        "android_client_info": {
+          "package_name": "com.pocketlawguide_criminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617048763407-attb721omqve2f8qcu3js14dn6n50m6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRXwteysky8F3Fa0jXapf9vj2lJYSolw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617048763407-attb721omqve2f8qcu3js14dn6n50m6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617048763407-pt7clmt7qol15bdpt4h5e5rg53o1r2hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.self.Tort"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
